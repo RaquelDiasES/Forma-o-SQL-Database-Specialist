@@ -1,4 +1,4 @@
-# Forma-o-SQL-Database-Specialist
+# Desafio "Primeiro projeto de BD".
 
 
 Projeto de Banco de Dados – E-commerce
